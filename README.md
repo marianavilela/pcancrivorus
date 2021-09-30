@@ -4,4 +4,4 @@ The modelling was made in the R languague, the data used was the sheet named "fi
 
 
 
-# Authors: Priscila Lemes (priscila.lemes.azevedo@gmail.com) and Mariana Andrade (mrn.vda@gmail.com)
+~# Authors: Priscila Lemes (priscila.lemes.azevedo@gmail.com) and Mariana Andrade (mrn.vda@gmail.com)~
